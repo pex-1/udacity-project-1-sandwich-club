@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="also_known_as_label_margin">10dp</dimen>
+    <dimen name="also_known_as_margin">15dp</dimen>
+    <dimen name="origin_label_margin">10dp</dimen>
+    <dimen name="origin_margin">15dp</dimen>
+    <dimen name="ingredients_label_margin">10dp</dimen>
+    <dimen name="ingredients_margin">15dp</dimen>
+    <dimen name="description_label_margin">10dp</dimen>
+    <dimen name="description_margin">10dp</dimen>
+</resources>
